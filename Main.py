@@ -1,1 +1,1 @@
-print("labo discreta 504E")
+print("labo discreta 504E despues de clonar")
